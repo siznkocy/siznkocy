@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @siznkocy
-- 👀 I’m interested in react.js and next.js projects
-- 🌱 I’m currently learning back-end programming
-- 💞️ I’m looking to collaborate on react.js or next.js project.
+- 👀 I’m interested in web development and IoT technology
+- 🌱 I’m currently in process of lbecaming a fullstack developer.
+- 💞️ I’m looking to collaborate on Web JavaScript related project with any of these: React, Next, NodeJS, Redux and Material
 - 📫 How to reach me email: siznkocie@gmail.com
 
 <!---
